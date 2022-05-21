@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c1336658570&theme=dracula)
 
 访问次数
-![Visitor Count](https://github.com/)
+
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
