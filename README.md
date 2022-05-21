@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c1336658570&count_private=true&show_icons=true&theme=dracula&locale=cn)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=c1336658570&theme=dracula)
 
 访问次数
 ![Visitor Count](https://profile-counter.glitch.me/c1336658570/count.svg)
